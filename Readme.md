@@ -116,7 +116,7 @@ The system supports these default expense categories:
 
 ## 🌐 Live Demo
 
-Experience the app directly: [Live Demo](https://your-streamlit-app-url.streamlit.app/)
+Experience the app directly: [Live Demo]([https://your-streamlit-app-url.streamlit.app/](https://receipt-manager-sabari-aiml.streamlit.app/))
 
 
 ## 📄 License
@@ -125,5 +125,8 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## 📧 Contact
 
+## Author
+
+- Sabari Vadivelan S - Contact Gmail [sabari132005@gmail.com]()
 
 Project Link: [https://github.com/sabari2005/receipt-manager](https://github.com/yourusername/receipt-manager)
