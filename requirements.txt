@@ -1,0 +1,14 @@
+streamlit
+pandas
+plotly
+sqlalchemy
+easyocr
+pdf2image
+Pillow
+PyPDF2
+python-dotenv
+langchain
+langchain-groq
+python-dateutil
+pydantic
+numpy
