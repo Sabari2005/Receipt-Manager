@@ -116,7 +116,7 @@ The system supports these default expense categories:
 
 ## 🌐 Live Demo
 
-Experience the app directly: [Live Demo]([https://your-streamlit-app-url.streamlit.app/](https://receipt-manager-sabari-aiml.streamlit.app/))
+Experience the app directly: [Live Demo](https://your-streamlit-app-url.streamlit.app/](https://receipt-manager-sabari-aiml.streamlit.app/)
 
 
 ## 📄 License
